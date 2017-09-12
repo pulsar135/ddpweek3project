@@ -1,0 +1,18 @@
+---
+title: "Developing Data Products: Week 3 Project"
+date: "September 12, 2017"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+library(plotly)
+```
+
+
+## plotly Scatter Plot of trees Dataset
+Timber volume denoted by marker size
+```{r trees_plot, echo=FALSE}
+plot_ly(trees, x=~Girth, y=~Height, type="scatter", size=~Volume, mode="markers")
+```
+
+## End of Assignment
