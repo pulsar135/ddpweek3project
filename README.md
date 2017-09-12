@@ -9,7 +9,8 @@ Your webpage must contain the date that you created the document, and it must co
 2. Is the web page a presentation and does it feature an interactive plot that appears to have been created with Plotly?
 
 ## Submission
-Use the "trees" dataset from the R Datasets Package to create a scatter plot using the plotly package
+- Use the "trees" dataset from the R Datasets Package to create a scatter plot using the plotly package
+- For a direct link to week2project.html see the link next to the repository description at the top of the page
 
 ## Description of "trees" dataset
 This data set provides measurements of the girth, height and volume of timber in 31 felled black cherry trees. Note that girth is the diameter of the tree (in inches) measured at 4 ft 6 in above the ground.
